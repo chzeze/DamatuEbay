@@ -36,7 +36,7 @@ import cn.smy.dama2.Dama2Web.ReadBalanceResult;
  */
 public class EbayMultiplyThreadCheck {
 
-	private static int threadNum = 30;
+	private static int threadNum = 10;
 
 	private static long nd = 1000 * 24 * 60 * 60;
 	private static long nh = 1000 * 60 * 60;
