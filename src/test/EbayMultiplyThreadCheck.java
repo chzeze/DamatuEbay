@@ -29,7 +29,7 @@ import cn.smy.dama2.Dama2Web.ReadBalanceResult;
 /***
  * 
  * @ClassName: EbayMultiplyThreadCheck
- * @Description: TODO
+ * @Description: Java 打码兔多线程验证eBay验证码
  * @author zeze
  * @date 2017年2月16日 上午8:49:46
  *
